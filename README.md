@@ -19,12 +19,6 @@ This project explores whether spectral signatures alone — without ground-truth
 
 DBSCAN on the UMAP embedding surfaces ~58 distinct marine sub-clusters against a dominant homogeneous "open ocean" background. The highest-ranked clusters by chlorophyll proxy show spectral signatures consistent with nutrient-rich coastal water — plausible candidate zones for fishing activity.
 
-## Notes and limitations
-
-- The B3/B2 chlorophyll proxy is a simplified indicator, not a validated oceanographic index (e.g. OC3/OC4).
-- No ground-truth validation (AIS vessel data, reported catches) is used — results are a spectral hypothesis, not a confirmed fishing map.
-- Single-year (2023) data; no seasonal analysis, despite fishing activity being highly seasonal.
-- Bathymetry and current data, often stronger drivers of fish presence than surface color alone, are not included.
 
 ## Stack
 
